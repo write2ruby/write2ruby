@@ -20,6 +20,9 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 - Repository 1:
 - Repository 2:
 
+![Example Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
+
+
 
 Here are some ideas to get you started:
 

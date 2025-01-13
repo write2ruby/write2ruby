@@ -7,7 +7,7 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 - ⚡ Fun fact: Still Exploring :)
 
 ## Connect with Me
-- [LinkedIn]:(https://www.linkedin.com/in/ruby-u-42b13924/)
+- [LinkedIn](https://www.linkedin.com/in/ruby-u-42b13924/)
 - [Portfolio]: Coming Soon!!
 
 ## My Skills

@@ -7,13 +7,15 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 - ⚡ Fun fact: Still Exploring :)
 
 ## Connect with Me
-- [LinkedIn]:https://www.linkedin.com/in/ruby-u-42b13924/
+- [LinkedIn]: (https://www.linkedin.com/in/ruby-u-42b13924/)
 - [Portfolio]: Coming Soon!!
 
 ## My Skills
 - Programming Languages: Python, PL\SQL, PeopleSoft, etc.
 - Tools: Git, Docker, etc.
 - Databases: Oracle, MySQL, DB2, MongoDB, etc
+
+## My Repositories
 
 
 Here are some ideas to get you started:

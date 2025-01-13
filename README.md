@@ -3,8 +3,8 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 
 ## About Me
 - 🌱 I’m currently learning Machine Learning.
-- 📫 Reach me at: write2ruby@gmail.com.
-- ⚡ Fun fact: [Something unique about you].
+- 📫 Reach me at: write2ruby@gmail.com
+- ⚡ Fun fact: Still Exploring :)
 
 ## Connect with Me
 - [LinkedIn]https://www.linkedin.com/in/ruby-u-42b13924/

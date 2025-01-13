@@ -7,7 +7,7 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 - ⚡ Fun fact: Still Exploring :)
 
 ## Connect with Me
-- [LinkedIn]: (https://www.linkedin.com/in/ruby-u-42b13924/)
+- [LinkedIn]:(https://www.linkedin.com/in/ruby-u-42b13924/)
 - [Portfolio]: Coming Soon!!
 
 ## My Skills
@@ -16,6 +16,8 @@ I'm Ruby, a passionate software developer and tech enthusiast!
 - Databases: Oracle, MySQL, DB2, MongoDB, etc
 
 ## My Repositories
+- Repository 1:
+- Repository 2:
 
 
 Here are some ideas to get you started:

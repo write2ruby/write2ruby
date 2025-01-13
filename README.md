@@ -18,7 +18,9 @@ I am a passionate software developer and tech enthusiast!
 
 ## My Repositories
 - Repository 1: Exploratory Data Analysis - [Suicides in India](https://github.com/write2ruby/Suicides-in-India)
-- Repository 2:
+- Repository 2: Exploratory Data Analysis - [Celebrity Deaths]()
+- Repository 3: Flask Project
+- Repository 4: End-to-End Machine Learning Project - [Wine Quality Analysis]()
 
 Here are some ideas to get you started:
 

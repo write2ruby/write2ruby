@@ -1,4 +1,5 @@
 # Hi there! 👋
+Welcome to my GitHub profile!
 I'm Ruby, a passionate software developer and tech enthusiast!
 
 ## About Me
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for visiting! 😊

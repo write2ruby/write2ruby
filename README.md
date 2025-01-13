@@ -1,7 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Ruby, a passionate software developer and tech enthusiast!
 
-<!--
-**write2ruby/write2ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning Machine Learning.
+- 📫 Reach me at: write2ruby@gmail.com.
+- ⚡ Fun fact: [Something unique about you].
+
+## Connect with Me
+- [LinkedIn]https://www.linkedin.com/in/ruby-u-42b13924/
+- [Portfolio] Coming Soon!!
+
+## My Skills
+- Programming Languages: Python, PL\SQL, PeopleSoft, etc.
+- Tools: Git, Docker, etc.
+- Databases: Oracle, MySQL, DB2, MongoDB, etc
+
 
 Here are some ideas to get you started:
 

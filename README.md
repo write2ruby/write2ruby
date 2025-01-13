@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! I'm Ruby 👋
 Welcome to my GitHub profile!
-I'm Ruby, a passionate software developer and tech enthusiast!
+I am a passionate software developer and tech enthusiast!
 
 ## About Me
 - 🌱 I’m currently learning Machine Learning.

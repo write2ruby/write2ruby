@@ -17,7 +17,7 @@ I am a passionate software developer and tech enthusiast!
 - Databases: Oracle, MySQL, DB2, MongoDB, etc
 
 ## My Repositories
-- Repository 1: Exploratory Data Analysis - [[Suicides in India] https://github.com/write2ruby/Suicides-in-India
+- Repository 1: Exploratory Data Analysis - [Suicides in India] https://github.com/write2ruby/Suicides-in-India
 - Repository 2:
 
 Here are some ideas to get you started:

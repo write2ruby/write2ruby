@@ -25,9 +25,9 @@ I am a passionate software developer and tech enthusiast!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python and Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🔭 I’m currently working on "Celebrity Deaths".
+- 🌱 I’m currently learning Python and Machine Learning.
+- 👯 I’m looking to collaborate on Machine Learning Projects.
 -->
 
 Thanks for visiting! 😊

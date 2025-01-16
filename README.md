@@ -12,7 +12,7 @@ I am a passionate software developer and tech enthusiast!
 - [Portfolio]: Coming Soon!!
 
 ## My Skills
-- Programming Languages: Python, PL\SQL, PeopleSoft, etc.
+- Programming Languages: Python, PL\SQL, etc.
 - Tools: Git, Docker, etc.
 - Databases: Oracle, MySQL, DB2, MongoDB, etc
 

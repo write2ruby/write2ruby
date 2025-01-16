@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on "Celebrity Deaths".
 - 🌱 I’m currently learning Python and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects.
--->
+  
 
 Thanks for visiting! 😊

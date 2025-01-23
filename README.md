@@ -22,7 +22,7 @@ I am a passionate software developer and tech enthusiast!
 - Repository 3: Very Simple Linear Regression Problem with EDA - [Day2 - brazilian_houses_to_rent](https://github.com/write2ruby/Day2-brazilian_houses_to_rent)
 - Repository 4: Flask Project
 - Repository 5: End-to-End Machine Learning Project - [Wine Quality Analysis]()
-- Repository 6: KN Machine Learning 
+- Repository 6: [KN Machine Learning](https://github.com/write2ruby/MLRevision2025) 
 
 Here are some ideas to get you started:
 

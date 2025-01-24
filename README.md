@@ -23,7 +23,7 @@ I am a passionate software developer and tech enthusiast!
 - Repository 4: Flask Project
 - Repository 5: End-to-End Machine Learning Project - [Wine Quality Analysis]()
 - Repository 6: [KN Machine Learning](https://github.com/write2ruby/MLRevision2025)
-- Repository 7: [PowerBI Projects]()
+- Repository 7: [PowerBI Projects](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain)
 
 Here are some ideas to get you started:
 

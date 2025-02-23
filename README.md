@@ -25,7 +25,7 @@ I am a passionate software developer and tech enthusiast!
 - Repository 6: End-to-End Machine Learning Project - [Wine Quality Analysis]()
 - Repository 7: [KN Machine Learning](https://github.com/write2ruby/MLRevision2025)
 - Repository 8: [PowerBI Projects](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain)
-- Repository 9: [My First Chatbot]()
+- Repository 9: [My First Chatbot](https://github.com/write2ruby/Project1)
 
 Here are some ideas to get you started:
 

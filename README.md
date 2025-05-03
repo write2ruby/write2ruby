@@ -27,8 +27,8 @@ I am a passionate software developer and tech enthusiast!
 - Repository 8: [PowerBI Projects](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain)
 - Repository 9: [My First Chatbot](https://github.com/write2ruby/Project1)
 - Repository 10: Python Projects
+  
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on "Celebrity Deaths".
 - 🌱 I’m currently learning Python and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects.

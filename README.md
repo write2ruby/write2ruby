@@ -26,7 +26,7 @@ I am a passionate software developer and tech enthusiast!
 - Repository 7: [KN Machine Learning](https://github.com/write2ruby/MLRevision2025)
 - Repository 8: [PowerBI Projects](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain)
 - Repository 9: [My First Chatbot](https://github.com/write2ruby/Project1)
-- Repository 10: [Python Projects]()
+- Repository 10: [Python Projects](https://github.com/write2ruby/Python-Projects)
   
 Here are some ideas to get you started:
 - 🔭 I’m currently working on "Celebrity Deaths".
